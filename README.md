@@ -18,4 +18,4 @@ Frontend access will be located @ http://localhost:3000
 
 Backend access will be located @ http://localhost:8000
 
-MySQL server is exposed at @ `localhost:9906`
+MySQL server is exposed @ `localhost:9906`
